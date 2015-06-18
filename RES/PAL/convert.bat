@@ -1,0 +1,1 @@
+makeres1.bat > makeres1.txt

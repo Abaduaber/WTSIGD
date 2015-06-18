@@ -1,0 +1,14 @@
+*.exe
+*.tpu
+*.obj
+*.zip
+*.com
+*.ini
+*.tpl
+*.avi
+*.bak
+*.lff
+*.lpf
+*.lrf
+*.lgf
+RUN.BAT
